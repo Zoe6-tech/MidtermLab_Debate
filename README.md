@@ -1,2 +1,1 @@
-# MidtermLab_Debate
-## Running is the best exercise in the world!
+![Running is the best exerice in the world!](running.jpg)
