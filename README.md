@@ -1,3 +1,1 @@
-# MidtermLab_Debate
-This is Zhu Meng and Qiaoxue Luan's debate club
-Swimming is the best exercise in the world!!!
+![Running is the best exerice in the world!](running.jpg)
