@@ -1,3 +1,4 @@
+![Swimming is the best exercise in the world!](swimvsrun.jpg)
 ![Swimming is the best exercise in the world!](swimming.jpg)
 # Why We Think Swimming is the Best Workout???
 ### 1. Swimming builds endurance and improves the lungs.
@@ -13,6 +14,6 @@ Clearly, swimming is one of the best workouts you can get. Swimming makes workin
 
 For a great body all year round, swim regularly. Find a gym with a pool so that you can incorporate swimming into your workout routines regularly.
 
-====================================================
+===================================================================
 ![Running is the best exerice in the world!](running.jpg)
 >>>>>>> a4c2fcc568cc91118d24c6899b71a4315171f8bb
