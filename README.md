@@ -13,8 +13,10 @@ Clearly, swimming is one of the best workouts you can get. Swimming makes workin
 
 For a great body all year round, swim regularly. Find a gym with a pool so that you can incorporate swimming into your workout routines regularly.
 
+
 ###Prerequisites
 Two editior and git!
+
 ##Author
-Qiaoxue Luan
-Zhu Meng
+1. Qiaoxue Luan
+2. Zhu Meng
