@@ -1,12 +1,11 @@
-<<<<<<< HEAD
 ![Swimming is the best exercise in the world!](swimming.jpg)
 # Why We Think Swimming is the Best Workout
-## 1. Swimming builds endurance and improves the lungs.
-## 2. You get a workout without the sweat.
-## 3. Swimming is another form of strength training.
-## 4. Swimming builds bone mass.
-## 5. Swimming burns tons of calories.
-#                 Conclusion
+### 1. Swimming builds endurance and improves the lungs.
+### 2. You get a workout without the sweat.
+### 3. Swimming is another form of strength training.
+### 4. Swimming builds bone mass.
+### 5. Swimming burns tons of calories.
+##                 Conclusion
 
 “The water doesn’t know your age.” – Dara Torres (Olympic swimmer)
 
