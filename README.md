@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Which one is the best?](s_vs_r.jpg)
 ![Running is the best exerice in the world!](running.jpg)
 # Why We Think Running is the Best Workout
@@ -12,8 +11,9 @@
 Running is the best exerice in the world!
 
  If you do not have your own swimming pool, it can be hard to get swimming time. You have to adhere to your club, gym or public pool’s schedule. With running, you can run anywhere. If it is raining outside, you can run on a treadmill to lose weight.People can burn almost 700 calories if they run seven miles an hour. There is more potential to lose weight with running.Running can increase your chances of getting a bone fracture. Your arms do move while you run, but it is not going up against resistance like it does in swimming.
-=======
-<<<<<<< HEAD
+ 
+====================================================
+
 ![Swimming is the best exercise in the world!](swimming.jpg)
 # Why We Think Swimming is the Best Workout
 ## 1. Swimming builds endurance and improves the lungs.
@@ -29,7 +29,4 @@ Clearly, swimming is one of the best workouts you can get. Swimming makes workin
 
 For a great body all year round, swim regularly. Find a gym with a pool so that you can incorporate swimming into your workout routines regularly.
 
-====================================================
-![Running is the best exerice in the world!](running.jpg)
->>>>>>> a4c2fcc568cc91118d24c6899b71a4315171f8bb
->>>>>>> 9c0df4ec029606fae26bdb0def456c7cd8af8aaf
+
