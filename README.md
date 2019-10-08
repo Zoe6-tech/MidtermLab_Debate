@@ -1,4 +1,4 @@
-![Which one is the best?](SwimVSRun.jpg)
+![Which one is the best?](s_vs_r.jpg)
 ![Running is the best exerice in the world!](running.jpg)
 # Why We Think Running is the Best Workout
 
